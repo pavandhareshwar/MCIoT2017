@@ -1,6 +1,8 @@
 /*****************************************************************************
- * @file
- * @brief LETIMER demo application, PWM and pulse output
+ * @file MCIoT_assg2.c
+ * @brief This file describes the methodology to manage different energy modes
+ * 		  for Leopard Gecko and describes the usage of LETimer, its interrupts
+ * 		  and interrupt handler.
  * @author Pavan Dhareshwar
  * @version 1.05
  ******************************************************************************
